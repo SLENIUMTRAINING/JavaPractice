@@ -1,0 +1,17 @@
+// Objects - have attributes and behaviour. 
+//Classes - a template that describes the behaviours or states. 
+// Animals - behaviours - dogs cats dinos
+// You dont have to rewrite the code by using objects from the class. -Reusability
+//Methods can execute class - but no attributes
+
+/*
+public class LearningClass {
+int id; //--Attributes
+string name;// - 
+
+  void display(){
+    System.out.println(id+" "+name);// -- Behaviour
+    }
+  */
+  
+  
