@@ -1,0 +1,4 @@
+// private default protected public - types of modifiers
+//private - members are visible to only that particular class - no inheritance
+//public - visible
+
