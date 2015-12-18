@@ -1,0 +1,29 @@
+// Collection of statements grouped together to perform an operation is called Method
+//System.out.println()
+//modifier return Type nameOfMethod (Parameter list){
+// method body
+//}
+//public int funcName(int a, int b){
+//body
+//}
+
+public class ExampleMinNumber {
+
+  public static void main(String[] args){
+    int a=11;
+    int b=6;
+      int c =minimumFunction(a,b);
+      System.out.println("The minimum value is "+min);
+  }
+  public int minimumFunction(int n, int m){
+    int min;
+    if(n>m){
+    min=m;
+    }else {
+      min=n;
+    }
+    return min;
+  }
+  
+  
+  }
